@@ -7,4 +7,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_cheetah.mk \
     $(LOCAL_DIR)/aosp_panther.mk \
     $(LOCAL_DIR)/lineage_cheetah.mk \
-    $(LOCAL_DIR)/lineage_panther.mk
+    $(LOCAL_DIR)/infinity_pather.mk
