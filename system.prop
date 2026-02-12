@@ -1,0 +1,6 @@
+# Market name and custom device info
+ro.product.marketname=Pixel 7
+ro.infinity.soc=Google Tensor G2
+ro.infinity.battery=4355 mAh
+ro.infinity.display=1080 x 2400, 90 Hz AMOLED
+ro.infinity.camera=50MP + 12MP
